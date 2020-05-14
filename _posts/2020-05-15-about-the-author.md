@@ -8,7 +8,7 @@ image: jejuisland.jpg
 ---
 ## About Me
 
-<img align="left" src="../assets/img/profile.jpg" width="160" height="210"> 
+<img align="left" src="../assets/img/profile.jpg" width="140" height="190"> 
 
 Hi, I’m currently working as a Data Analyst at Boeing Research & Technology (BR&T) AI team. 
 Just like Boeing's motto **“The Future is Built Here”✈️**, my team and I are doing novel research to push the boundaries of AI.  I am involved in AI projects related to **automated visual inspection** and **human action recognition for autonomous vehicles**. I am cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
