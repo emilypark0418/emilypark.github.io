@@ -4,7 +4,7 @@ title: "Smart Galley Cart"
 author: "Chaewon Emily Park"
 categories: ideas
 tags: [ideas]
-image: smartaircraft.jpg
+image: smartaircraft.png
 ---
 
 Smart Galley Cart
