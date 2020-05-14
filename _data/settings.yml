@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Home', folder: 'pages', file: 'facts.html'}
-- {name: 'CV', folder: 'pages', file: 'resources.html'}
+- {name: 'CV', folder: 'pages', file: 'cv.html'}
 - {name: 'Previous Projects', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Ideas', folder: 'pages', file: 'documentation.html'}
 - {name: 'Others', folder: 'pages', file: 'about.html'}
@@ -19,7 +19,6 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/chaedoong0418'}
 - {icon: 'envelope', link: 'mailto:cwp9447@naver.com'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/chaewon-park-bb9b7a97'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
