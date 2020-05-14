@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Me"
 author: "Chaewon Emily Park"
 categories: bio
 tags: [bio]
