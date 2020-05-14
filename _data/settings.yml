@@ -21,12 +21,12 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/chaewon-park-bb9b7a97'}
 
 # Customize site text
-#pagination:
-#  next_page: 'Newer'
-#  previous_page: 'Older'
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+#related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
