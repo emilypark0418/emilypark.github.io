@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Chaewon Emily Park"
 categories: bio
 tags: [bio]
-image: cuba-4.jpg
+image: jejuisland.jpg
 ---
 ## About Me
 
