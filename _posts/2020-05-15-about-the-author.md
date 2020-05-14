@@ -8,7 +8,7 @@ image: jejuisland.jpg
 ---
 ## About Me
 
-<img align="left" src="../assets/img/profile.jpg" width="140" height="190"> 
+<img align="left" src="../assets/img/profile.jpg" width="130" height="180"> 
 
 Hi, I’m currently working as a Data Analyst at Boeing Research & Technology (BR&T) AI team. 
 Just like Boeing's motto **“The Future is Built Here”✈️**, my team and I are doing novel research to push the boundaries of AI.  I am involved in AI projects related to **automated visual inspection** and **human action recognition for autonomous vehicles**. I am cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
@@ -22,7 +22,7 @@ My research interests lie in **Resilient Intelligence for Ambient Safety**, whic
 
 ## Education
 
-I graduated from **Yonsei University**, with a **B.A. in Business Administration** and a **B.S. in Computer Science**. I also have a Samsung Convergence Software Course (SCSC) certificate. In school, I was also involved in an IT Business Strategy club project for product strategy of SK Telecom’s AI assistant Nugu, which is a Korean version of Alexa / Google Home. I also played keyboard for my class band in my freshman year.
+I graduated from **Yonsei University**, with a **B.A. in Business Administration** and a **B.S. in Computer Science**. I also have a Samsung Convergence Software Course (SCSC) certificate. In school, I was also involved in an IT Business Strategy club project for product strategy of SK Telecom’s AI assistant Nugu, which is a Korean version of Alexa / Google Home. I also played keyboard for my class band in my freshman year. I received scholarship from KFAS (Korea Foundation for Advanced Studies) for my 4 years of undergraduate studies. 
 
 ## Hobbies
 
