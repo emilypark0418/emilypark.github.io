@@ -7,7 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Home', folder: '_layouts', file: 'home.html'}
+- {name: 'Home'}
+#, folder: '_layouts', file: 'home.html'}
 - {name: 'CV', folder: 'pages', file: 'cv.html'}
 - {name: 'Previous Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Ideas', folder: 'pages', file: 'ideas.html'}
@@ -21,9 +22,9 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/chaewon-park-bb9b7a97'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
 sharing_button_prompt: 'Feel free to share!'
 
