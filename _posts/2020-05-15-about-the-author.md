@@ -22,7 +22,7 @@ My research interests lie in **Resilient Intelligence for Ambient Safety**, whic
 
 ## Education
 
-I graduated from **Yonsei University**, with a **B.A. in Business Administration** and a **B.S. in Computer Science**. I also have a Samsung Convergence Software Course (SCSC) certificate. In school, I was also involved in an IT Business Strategy club project for product strategy of SK Telecom’s AI assistant Nugu, which is a Korean version of Alexa / Google Home. I also played keyboard for my class band in my freshman year. I received scholarship from KFAS (Korea Foundation for Advanced Studies) for my 4 years of undergraduate studies. 
+I graduated from **Yonsei University**, with a **B.A. in Business Administration** and a **B.S. in Computer Science**. I also have a Samsung Convergence Software Course (SCSC) certificate. In school, I was also involved in an IT Business Strategy club project for product strategy of SK Telecom’s AI assistant Nugu, which is a Korean version of Alexa / Google Home. I also played keyboard for my class band in my freshman year. I received scholarship from KFAS (Korea Foundation for Advanced Studies) for my 4 years of undergraduate studies.
 
 ## Hobbies
 
