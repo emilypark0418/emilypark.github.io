@@ -22,8 +22,8 @@ tags: [cv]
 * **KFAS (Korea Foundation for Advanced Studies) Undergraduate Scholarship** (March 2016- Aug 2019)
 * Yonsei Honor Award (Fall 2015, Spring 2017, Fall 2018) and Jinri Scholarship (Spring 2016, Fall 2018, Spring 2019)
 
-## Language Proficiency
-   * Proficient in English and Native in Korean
+### Language Proficiency
+   * Native in English & Korean
       * GRE: Verbal (164, 94%), Quantitative (170, 97%), Writing (4.0, 59%)
       * TOEFL: 116 (Reading: 30, Listening: 28, Speaking: 30, Writing: 28)
 
