@@ -17,15 +17,15 @@ I feel like even the recent ongoing COVID-19 epidemic is a test to humanities'
 (and specifically each country/government administration's) resilience on medical system and government policies.
 
 That got me thinking, when resilience is so important to humans,
-1) **What kind of research efforts are being made to assess and develop resilience in AI?**
-2) **What kind of impact does lack of resilience have on current technology usage?**
+1. **What research efforts & discussions are being made to assess and develop resilience in AI?**
+2. **What kind of impact does lack of resilience have on current technology usage?**
 
 ## Resilience
 
 - Ability for the system to acknowledge mistakes and adapt, mitigate, and overcome the situation by minimizing damage
-1) understand what is wrong
-2) figure out solution to overcome problem
-3) retain lessons learned and build upon it
+1. understand what is wrong
+2. figure out solution to overcome problem
+3. retain lessons learned and build upon it
 
 - constant learning is needed for making a system that can evolve, adapt, and introspect
   - 3 factors will help embed autonomy & self-perpetuated improvement that helps drive the system to think for itself
@@ -68,5 +68,5 @@ by identifying, defining, and understanding policies, procedures, and practices
             - Are there safety measures that prevents the ML model from deviating from safe training & testing procedures?
 
 References:
-1) [Measuring Resilience in AI and ML systems](https://insights.sei.cmu.edu/insider-threat/2019/12/measuring-resilience-in-artificial-intelligence-and-machine-learning-systems.html)
-2) [Shield AI Fundamentals](https://www.shield.ai/content/2019/6/17/on-resilient-intelligence)   
+1. [Measuring Resilience in AI and ML systems](https://insights.sei.cmu.edu/insider-threat/2019/12/measuring-resilience-in-artificial-intelligence-and-machine-learning-systems.html)
+2. [Shield AI Fundamentals](https://www.shield.ai/content/2019/6/17/on-resilient-intelligence)   
