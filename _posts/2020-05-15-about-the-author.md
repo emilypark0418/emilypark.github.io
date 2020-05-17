@@ -11,9 +11,9 @@ image: jejuisland.jpg
 <img align="right" src="../assets/img/profile.jpg" width="140" height="190"> 
 
 Hi there! I’m currently working as an **AI Data Analyst at Boeing Research & Technology (BR&T)**. 
-Just like Boeing's motto _“The Future is Built Here”✈️_, my team and I are doing novel research to push the boundaries of AI.  I am involved in projects related to <ins>**automated visual inspection** and **human action recognition for autonomous vehicles**</ins>,cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
+Just like Boeing's motto _“The Future is Built Here”✈️_, my team and I are doing novel research to push the boundaries of AI.  I am involved in projects related to <ins>**automated visual inspection** and **human action recognition for autonomous vehicles**</ins>, cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
 
-I joined Boeing in January of 2018 as part of the **International Business Internship Program (IBIP)**, where I relocated to Seattle, WA for 6 months to work in **BR&T Global R&D Strategy (GRADS)** Team. I returned to South Korea after the internship to finish my last year of university, and during my senior year, I worked as a part-time intern to help a director establish Boeing's 7th International Research Center in Seoul, South Korea. That research center has been named _**"Boeing Korea Engineering & Technology Center (BKETC)"**_ and I subsequently joined full time there after my graduation! It has been quite a journey.  
+I joined Boeing in January of 2018 as part of the **International Business Internship Program (IBIP)**, where I relocated to **Seattle, WA** for 6 months to work in **BR&T Global R&D Strategy (GRADS)** Team. I returned to South Korea after the internship to finish my last year of university, and during my senior year, I worked as a part-time intern to help a director establish Boeing's 7th International Research Center in Seoul, South Korea. That research center has been named _**"Boeing Korea Engineering & Technology Center (BKETC)"**_ and I subsequently joined full time there after my graduation! It has been quite a journey.  
 
 
 ## Research Interest
