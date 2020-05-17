@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "CV"
 author: "Chaewon Emily Park"
 categories: cv
