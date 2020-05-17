@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Home', file: 'index.html'}
-- {name: 'CV', folder: 'pages', file: 'cv.md'}
+- {name: 'CV', folder: 'pages', file: 'cv.html'}
 - {name: 'Previous Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Ideas', folder: 'pages', file: 'ideas.html'}
 - {name: 'Others', folder: 'pages', file: 'others.html'}
