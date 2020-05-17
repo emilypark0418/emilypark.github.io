@@ -11,7 +11,7 @@ tags: [cv]
 	* Major: Business Administration (B.A.), Computer Science (B.S.)
 	* GPA: 3.9 / 4.3
   * Relevant Courses: 
-    * <ins>Computer Science</ins>: Algorithm Analysis, Data Structures, Database Management Systems, Object Oriented Programming, Artificial Intelligence, Computer Graphics, 
+    * <ins>Computer Science</ins>: Algorithm Analysis, Data Structures, Database Management Systems, Object Oriented Programming, Artificial Intelligence, Computer Graphics
     * <ins>Business</ins>: Business Intelligence, Marketing & Digital Analytics, Management Science, Technology & Data-based Entrepreneurship, Frontier Technology Trend and Technology Management
     * <ins>Statistics</ins>: Linear Algebra, Calculus
 * University of Connecticut (Fall 2016)
@@ -21,6 +21,11 @@ tags: [cv]
 ### Honors, Scholarships, & Awards
 * **KFAS (Korea Foundation for Advanced Studies) Undergraduate Scholarship** (March 2016- Aug 2019)
 * Yonsei Honor Award (Fall 2015, Spring 2017, Fall 2018) and Jinri Scholarship (Spring 2016, Fall 2018, Spring 2019)
+
+## Language Proficiency
+   * Proficient in English and Native in Korean
+      * GRE: Verbal (164, 94%), Quantitative (170, 97%), Writing (4.0, 59%)
+      * TOEFL: 116 (Reading: 30, Listening: 28, Speaking: 30, Writing: 28)
 
 <!--
 ### Publications (*Corresponding Author of All Papers)
@@ -51,6 +56,25 @@ tags: [cv]
       * Analyzed South Korea’s technical capabilities and industrial partnerships
       * Translated MOUs and Foreign Investment Promotion Acts
     * Coordinated the Boeing-Samsung Smart Workshop (Mukilteo, WA) and 2018 BTEC (Boeing Technical Excellence Conference; St. Louis, MO)
+
+### School Projects
+* **Student Community Facebook Page Post Analysis** (May 2016 – June 2016)
+	* Analyzed 3060 posts from a student community Facebook page using Graph API, access token, and csv library in Python. Text-mined keywords to identify the students’ general mood fluctuations over the time of day
+	* Evaluated the lead time for a post to be publicly posted after being submitted to the administrator through Google Docs, using time stamp parsing to verify the validity of the page’s ‘72-hour Policy’ for workload management
+
+* **Lemon Car Market Analysis** (April 2017 – May 2017)
+	* Analyzed Lemon Car data from Kaggle with various classification algorithms, classification matrixes, and lift charts to identify the most salient car features that determine lemon cars with the highest accuracy
+	* Determined car dealer’s optimal strategy to achieve highest profit using profit chart, based on the assumption that the dealer trades off reputation and money for every lemon he sells, and that reputation can be converted to money
+
+* **Mileage Class Enrollment Problem Project** (Mar 2016 – June 2016)
+	* Formulated optimal class enrollment strategy in the mileage-based class enrollment system for Yonsei students
+	* Gathered and refined data such as historic mileage enrollment results, course satisfaction ratings, student information (grade, major, exchange student, applied for graduation) that influences enrollment priorities based on school policy
+	* Defined maximized objective function as ‘total satisfaction’ and mathematically modeled assumptions and constraints
+
+* **ISSU Yonsei IT Business Strategy Fraternity** (Mar 2017 – June 2017)
+	* Collaborated with **online shopping app Brandi** to develop strategies to entice new customers. Utilized untapped marketing channels (pop-up stores, student community sites) and partnered with brands with good synergy fit
+	* Collaborated with **SK Telecom** to develop strategies to improve user experience for **AI assistant Nugu mobile app**. Identified and streamlined several bottleneck aspects of the app menu through 17 in-depth user interviews.
+
 
 ### Volunteer Work
 * SIGGRAPH ASIA 2019 Student Volunteer | Brisbane, Australia (Nov 2019)
