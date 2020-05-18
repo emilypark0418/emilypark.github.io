@@ -24,7 +24,7 @@ tags: [cv]
 
 ### Language Proficiency
    * Native in English & Korean
-      * GRE: Verbal (164, 94%), Quantitative (170, 97%), Writing (4.0, 59%)
+      * GRE: Verbal (164, 94%), Quantitative (170, 96%), Writing (4.5, 81%)
       * TOEFL: 116 (Reading: 30, Listening: 28, Speaking: 30, Writing: 28)
 
 <!--
