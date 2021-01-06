@@ -11,7 +11,7 @@ tags: [cv]
 	* Major: Business Administration (B.A.), Computer Science (B.S.)
 	* GPA: 3.9 / 4.3
   * Relevant Courses: 
-    * <ins>Computer Science</ins>: Algorithm Analysis, Data Structures, Database Management Systems, Object Oriented Programming, Artificial Intelligence, Computer Graphics
+    * <ins>Computer Science</ins>: Algorithm Analysis, Data Structures, Database Management Systems, Object Oriented Programming, Artificial Intelligence, Computer Graphics, Discrete Math
     * <ins>Business</ins>: Business Intelligence, Marketing & Digital Analytics, Management Science, Technology & Data-based Entrepreneurship, Frontier Technology Trend and Technology Management
     * <ins>Statistics</ins>: Linear Algebra, Calculus
 * University of Connecticut (Fall 2016)
@@ -21,6 +21,8 @@ tags: [cv]
 ### Honors, Scholarships, & Awards
 * **KFAS (Korea Foundation for Advanced Studies) Undergraduate Scholarship** (March 2016- Aug 2019)
 * Yonsei Honor Award (Fall 2015, Spring 2017, Fall 2018) and Jinri Scholarship (Spring 2016, Fall 2018, Spring 2019)
+* Business MVP Award: Marketing (Spring 2017), Production & Operations Management (Fall 2017)
+* Jinmyung Scholarship (Spring 2015)
 
 ### Language Proficiency
    * Native in English & Korean
@@ -37,11 +39,11 @@ tags: [cv]
 * AI Data Analyst, Boeing Research & Technology | Seoul, South Korea (Aug 2019 - Present)
 	* AI research projects on **airplane surface defect detection** and **human action recognition**
     * <ins>**Airplane Surface Defect Detection**</ins>
-      * Designed and ran experiments on public surface dataset to build a comprehensive ML package and pipeline
-        * Implemented MixUp, Gradcam, WSOL, 
-      * Developed program that recreates customized surface defects for data augmentation
+      * Researched methods to resolve Attention Branch Network’s unstable visual explanations that sometimes generate attention maps on defect images’ background, instead of the target defect itself
+      * Ran experiments on public surface datasets to build a comprehensive ML package and pipeline, focusing on improving image classification, semantic segmentation, and robust visual explanation performance
+      * Developed 3D defect recreation program using ThreeJS and Constructive Solid Geometry library to enable customized modifications to various standard geometries and airplane models for data augmentation
     * <ins>**Action Recognition**</ins>
-      * Created an interactive 3D web interface for stakeholders to test algorithm performance through visualization
+      * Created interactive 3D simulator for testing algorithm performance through visualization
     * Tools: Cuda, PyTorch, OpenCV, Javascript (ThreeJS and Constructive Solid Geometry (CSG) library), Redis, HTML, CSS 
 
 * Intern, Boeing Research & Technology | Seoul, South Korea	(Sep 2018 – July 2019)
