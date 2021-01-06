@@ -9,11 +9,9 @@ tags: [bio]
 
 <img align="middle" src="assets/img/경영학과-박채원-2015123072_32-02.jpeg" width="240" height="180"> 
 
-## Intro
+**Advanced Technologist (Data Analyst) at Boeing Research & Technology (BR&T) AI Team**.
 
-**Currently an Advanced Technologist (Data Analyst) at Boeing Research & Technology (BR&T) AI Team**. </br>
-
-<img align="middle" src="assets/img/boeing.png" width="120" height="90"> 
+<img align="middle" src="assets/img/boeing.png" width="240" height="180">
 
 Just like Boeing's motto _“The Future is Built Here”✈️_, my team and I do novel research to push the boundaries of AI. I am involved in projects related to <ins>**automated visual inspection** and **human action recognition for autonomous vehicles**</ins>, cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
 
