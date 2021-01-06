@@ -4,11 +4,9 @@ title: "About Me"
 author: "Chaewon Emily Park"
 categories: bio
 tags: [bio]
-image: jejuisland.jpg
+image: profile.jpg
 ---
 ## Intro
-
-<img align="right" src="assets/img/profile.jpg" width="140" height="190"> 
 
 Hi there! I’m currently working as an **AI Data Analyst at Boeing Research & Technology (BR&T)**. 
 Just like Boeing's motto _“The Future is Built Here”✈️_, my team and I are doing novel research to push the boundaries of AI.  I am involved in projects related to <ins>**automated visual inspection** and **human action recognition for autonomous vehicles**</ins>, cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
