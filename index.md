@@ -9,7 +9,6 @@ tags: [bio]
 
 <img align="middle" src="assets/img/경영학과-박채원-2015123072_32-02.jpeg" width="240" height="180">   
 
-
 **<center>Advanced Technologist (Data Analyst)</center>**  
 **<center>at Boeing Research & Technology (BR&T) AI Team</center>**
 
@@ -25,11 +24,15 @@ I joined Boeing in January of 2018 as part of the **International Business Inter
 
 My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for disruptive mobility to leverage robust Explainable AI on multimodal data. Rethinking the entire architecture principle to prioritize safety and embed trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
 
+<br />
+
+Keywords: Explainable AI · Visual Explanation · Resilient AI · AI for Safety · AI for Good
+
 * You can check out the ["Ideas"](https://emilypark0418.github.io/pages/ideas.html) section of this website where I organize my thoughts and brainstorm.  
 
 <br />
 
-## Education
+## Education (["CV"](https://emilypark0418.github.io/pages/cv.html) & ["Previous Projects"](https://emilypark0418.github.io/pages/projects.html))
 
 **Yonsei University** - Seoul, Republic of Korea (2015 ~ 2019)
 
@@ -41,20 +44,20 @@ Samsung Convergence Software Course (SCSC) certificate
 
 **KFAS (Korea Foundation for Advanced Studies) scholarship** (2016 ~ 2019)
 
+<br />
+
 **University of Connecticut** - Storrs, CT, USA (2016)
 
 Exchange Student
 
 
-* You can check out the ["CV"](https://emilypark0418.github.io/pages/cv.html) & ["Previous Projects"](https://emilypark0418.github.io/pages/projects.html) section of this website for more details.  
-
 <br />
 
 ## Hobbies
 
-<img align="right" src="assets/img/perth.jpg" width="250" height="310"> 
+<img align="right" src="assets/img/perth.jpg" width="260" height="310"> 
 
-Sports-wise, I love swimming and roller blading. I have played the clarinet for 10+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
+Sports-wise, I love swimming and roller blading. I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
 
 
 ### Thanks for visiting my website, and feel free to reach out to me for any inquiries! ❤️
