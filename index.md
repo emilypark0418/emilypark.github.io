@@ -9,7 +9,9 @@ tags: [bio]
 
 <img align="middle" src="assets/img/경영학과-박채원-2015123072_32-02.jpeg" width="240" height="180"> 
 
-**Advanced Technologist (Data Analyst) at Boeing Research & Technology (BR&T) AI Team**.
+
+**<center>Advanced Technologist (Data Analyst)</center>**  
+**<center>at Boeing Research & Technology (BR&T) AI Team</center>**
 
 <img align="middle" src="assets/img/boeing.png" width="240" height="180">
 
