@@ -12,7 +12,7 @@ tags: [bio]
 **<center>Advanced Technologist (Data Analyst)</center>**  
 **<center>at Boeing Research & Technology (BR&T) AI Team</center>**
 
-<img align="middle" src="assets/img/boeing.png" width="240" height="180">
+<img align="middle" src="assets/img/boeing.png" width="180" height="140">
 
 Just like Boeing's motto _“The Future is Built Here”✈️_, my team and I do novel research to push boundaries of AI. I am involved in projects related to <ins>**automated visual inspection** and **human action recognition for autonomous vehicles**</ins>, cherishing every moment of learning, researching, and having fun with my fantastic colleagues.
 
@@ -22,13 +22,29 @@ I joined Boeing in January of 2018 as part of the **International Business Inter
 
 ## Research Interest
 
-My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for disruptive mobility to leverage robust Explainable AI on multimodal data. Rethinking the entire architecture principle to prioritize safety and embed trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
+My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for disruptive mobility to leverage robust Explainable AI on multimodal data. I believe rethinking the entire architecture principle to prioritize safety and embedding trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
 
-<br />
 
 Keywords: Explainable AI · Visual Explanation · Resilient AI · AI for Safety · AI for Good
 
 * You can check out the ["Ideas"](https://emilypark0418.github.io/pages/ideas.html) section of this website where I organize my thoughts and brainstorm.  
+
+---
+## Conference Presentations & Papers
+
+Chaewon Park, Jay Oh, Kwanghee Lee, Minwoo Kwon, and Youngsuk Cho. 2020. “Boeing Intelligent Data Management System (BIDMS) for ML/DL-based Automated Inspections”. As part of Boeing Technical Excellence Conference (BTEC) 2020 “Artificial Intelligence & Autonomy” track. [*Authors are in alphabetical order]
+
+*BTEC is the largest enterprise-wide technical conference hosted by the Technical Fellowship for the past 20 years
+
+---
+
+## Invention Disclosures 
+
+Boeing Invention Disclosures
+
+o ID 20-0491: Boeing Intelligent Data Management System (BIDMS)
+
+o ID 19-4011: Explainable AI for Autonomous Personal Air Vehicle
 
 ---
 
@@ -50,6 +66,17 @@ Samsung Convergence Software Course (SCSC) certificate
 
 Exchange Student
 
+---
+
+## Work Experience
+
+**Boeing Research & Technology** , Data Analyst - Seoul, Republic of Korea (2019 Aug ~ Present)
+
+**Boeing Research & Technology** , Tech Integrator - Seoul, Republic of Korea (2018 Sept ~ 2019 July)
+
+**Boeing Research & Technology** , Business Intern - Seattle, WA, USA (2018 Jan ~ 2018 July)
+
+**Adidas** , IT Intern - Seoul, Republic of Korea (2017 June ~ 2017 Aug)
 
 ---
 
