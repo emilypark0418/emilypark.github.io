@@ -22,7 +22,7 @@ I joined Boeing in January of 2018 as part of the **International Business Inter
 
 ## Research Interest
 
-My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for disruptive mobility to leverage robust Explainable AI on multimodal data. I believe rethinking the entire architecture principle to prioritize safety and embedding trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
+My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for Disruptive Mobility to leverage robust Explainable AI on multimodal data. I believe rethinking the entire architecture principle to prioritize safety and embedding trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
 
 
 Keywords: Explainable AI · Visual Explanation · Resilient AI · AI for Safety · AI for Good
@@ -32,9 +32,9 @@ Keywords: Explainable AI · Visual Explanation · Resilient AI · AI for Safety 
 ---
 ## Conference Presentations & Papers
 
-Chaewon Park, Jay Oh, Kwanghee Lee, Minwoo Kwon, and Youngsuk Cho. 2020. “Boeing Intelligent Data Management System (BIDMS) for ML/DL-based Automated Inspections”. As part of Boeing Technical Excellence Conference (BTEC) 2020 “Artificial Intelligence & Autonomy” track. [*Authors are in alphabetical order]
+**Chaewon Park**, Jay Oh, Kwanghee Lee, Minwoo Kwon, and Youngsuk Cho. 2020. “Boeing Intelligent Data Management System (BIDMS) for ML/DL-based Automated Inspections”. As part of **Boeing Technical Excellence Conference (BTEC) 2020** “Artificial Intelligence & Autonomy” track. [*Authors are in alphabetical order]
 
-*BTEC is the largest enterprise-wide technical conference hosted by the Technical Fellowship for the past 20 years
+*BTEC is the largest enterprise-wide technical conference hosted by the Boeing Technical Fellowship for the past 20 years
 
 ---
 
