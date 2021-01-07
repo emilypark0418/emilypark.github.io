@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: misc
 title: "About Me"
 author: "Chaewon Emily Park"
 categories: bio
