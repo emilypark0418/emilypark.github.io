@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Home', file: 'index.html'}
+- {name: 'Home', file: 'index.md'}
 - {name: 'CV', folder: 'pages', file: 'cv.html'}
 - {name: 'Previous Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Ideas', folder: 'pages', file: 'ideas.html'}
