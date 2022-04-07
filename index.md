@@ -52,7 +52,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/boeing.png" width="300" height="190">  &nbsp; &nbsp; &nbsp; &nbsp;<ins>**Boeing Research & Technology**</ins>
 
- &nbsp; &nbsp; &nbsp; &nbsp;**Advanced Technologist (Data Analyst) - Seoul, South Korea (Aug 2019 ~ June 2021)**
+ &nbsp; &nbsp; &nbsp; &nbsp;**Advanced Technologist - Seoul, South Korea (Aug 2019 ~ June 2021)**
 
  &nbsp; &nbsp; &nbsp; &nbsp;**Tech Integrator - Seoul, South Korea (Sept 2018 ~ July 2019)**
 
@@ -63,18 +63,24 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 ## Education
 
-<img align="left" src="assets/img/columbia_logo.jpg" width="320" height="180"> <br /> <br /> <br />  &nbsp;&nbsp;<ins>**Columbia University**</ins>
+<img align="left" src="assets/img/columbia_logo.jpg" width="320" height="180"> <br /> <br /> <br />  &nbsp; &nbsp;&nbsp;<ins>**Columbia University**</ins>
 
-&nbsp;&nbsp;***M.S. in Computer Science (Dec 2022)***
+&nbsp;&nbsp;&nbsp;***M.S. in Computer Science (Dec 2022)***
+
+<br />
+<br />
+
+<img align="left" src="assets/img/cornell_logo.png" width="320" height="180"> <br /> <br /> <br />  &nbsp; &nbsp;&nbsp;<ins>**Cornell University**</ins>
+
+&nbsp;&nbsp;&nbsp;***ML Certificate (2021)***
 
 <br />
 <br />
 
-<img align="left" src="assets/img/yonsei_logo.png" width="320" height="180">  <br /> <br /> &nbsp;&nbsp;<ins>**Yonsei University**</ins> 
+<img align="left" src="assets/img/yonsei_logo.png" width="320" height="180">  <br /> <br /> &nbsp; &nbsp;&nbsp;<ins>**Yonsei University**</ins> 
 
-&nbsp;&nbsp;***B.S. in Computer Science, B.A. in Business Administration (Aug 2019)***
+&nbsp;&nbsp;&nbsp;***B.S. in Computer Science, B.A. in Business Administration (Aug 2019)***
 
-<br />
 <br />
 
 ## Academic Research/Teaching Experience
@@ -109,7 +115,8 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 `Keywords: Computer Vision · Explainable AI · Visual Explanation · Resilient AI · Robust ML · AI for Safety · AI for Good · Trustworthy AI`
 
-  
+
+<br />
 
 ## Hobbies
 
@@ -117,5 +124,6 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 Sports-wise, I love swimming, ice skating, and roller blading. I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
 
+<br />
 
 ### Thanks for visiting my website, and feel free to reach out to me for any inquiries! ❤️
