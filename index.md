@@ -63,23 +63,23 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 ## Education
 
-<img align="left" src="assets/img/columbia_logo.jpg" width="320" height="180"> <br /> <br /> <br />  &nbsp; &nbsp;&nbsp;<ins>**Columbia University**</ins>
+<img align="left" src="assets/img/columbia_logo.jpg" width="320" height="180"> <br /> <br /> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>**Columbia University**</ins>
 
-&nbsp;&nbsp;&nbsp;***M.S. in Computer Science (Dec 2022)***
-
-<br />
-<br />
-
-<img align="left" src="assets/img/cornell_logo.png" width="320" height="180"> <br /> <br /> <br />  &nbsp; &nbsp;&nbsp;<ins>**Cornell University**</ins>
-
-&nbsp;&nbsp;&nbsp;***ML Certificate (2021)***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***M.S. in Computer Science (Dec 2022)***
 
 <br />
 <br />
 
-<img align="left" src="assets/img/yonsei_logo.png" width="320" height="180">  <br /> <br /> &nbsp; &nbsp;&nbsp;<ins>**Yonsei University**</ins> 
+<img align="left" src="assets/img/cornell_logo.png" width="320" height="180"> <br /> <br /> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>**Cornell University**</ins>
 
-&nbsp;&nbsp;&nbsp;***B.S. in Computer Science, B.A. in Business Administration (Aug 2019)***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***ML Certificate (2021)***
+
+<br />
+<br />
+
+<img align="left" src="assets/img/yonsei_logo.png" width="320" height="180">  <br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>**Yonsei University**</ins> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***B.S. in Computer Science, B.A. in Business Administration (Aug 2019)***
 
 <br />
 
@@ -122,7 +122,11 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 <img align="right" src="assets/img/perth.jpg" width="270" height="360"> 
 
-Sports-wise, I love swimming, ice skating, and roller blading. I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
+Sports-wise, I love swimming, ice skating, and roller blading. I love watching figure skating Olympians perform on ***Stars on Ice***!
+
+I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I was actively involved in orchestras and performances since elementary school, and even at Boeing I was part of an orchestra. In college, I was part of a band and played keyboard.
+
+I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
 
 <br />
 
