@@ -4,6 +4,7 @@ title: "Concept of Resilience"
 author: "Chaewon Emily Park"
 categories: ideas
 tags: [ideas]
+image: resilience.png
 ---
 
 Nowadays, I'm immersed in the concept of resilience.
