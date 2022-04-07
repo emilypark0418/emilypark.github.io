@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Smart Galley Cart"
+title: "Explainable RL"
 author: "Chaewon Emily Park"
 categories: ideas
 tags: [ideas]
-image: smartaircraft.png
+image: XRL.png
 ---
 
-Smart Galley Cart
+Explainable Reinforcement Learning
 
 ## Getting Started
 
