@@ -21,6 +21,11 @@ I was an undergraduate <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_sch
 
 ## Publications
 
+<img align="right" src="assets/img/lfi_cam.png" width="500" height="240">   
+
+<br />
+<br />
+
 <ins>**LFI-CAM: Learning Feature Importance for Better Visual Explanation**</ins>
 
 **ICCV 2021** ***(International Conference on Computer Vision)***
@@ -31,6 +36,11 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <br />
 <br />
+<br />
+
+<img align="right" src="assets/img/boeing_plane.png" width="485" height="220">   
+
+<br />
 
 <ins>**Boeing Intelligent Data Management System (BIDMS) for ML/DL-based Automated Inspections**</ins>
 
@@ -39,14 +49,16 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 **Chaewon Park**, Jay Oh, Kwanghee Lee, Minwoo Kwon, Youngsuk Cho
 
 <br />
-
+<br />
+<br />
 
 ## Work Experience
 
-<img align="left" src="assets/img/amazon_logo.png" width="300" height="150"> <br /><br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ins>**Amazon Web Services**</ins>
+<img align="left" src="assets/img/amazon_logo.png" width="300" height="150"> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ins>**Amazon Web Services**</ins>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **SDE Intern - Redmond, WA, USA (May 2022 ~ Aug 2022)**
 
+<br />
 <br />
 <br />
 
