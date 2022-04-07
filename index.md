@@ -24,7 +24,6 @@ I was an undergraduate <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_sch
 <img align="right" src="assets/img/lfi_cam.png" width="500" height="240">   
 
 <br />
-<br />
 
 <ins>**LFI-CAM: Learning Feature Importance for Better Visual Explanation**</ins>
 
@@ -34,7 +33,6 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <a href="https://bit.ly/3FIRi2r">`Paper`</a> <a href="https://github.com/TrustworthyAI-kr/LFI-CAM">`Code`</a> <a href="https://lnkd.in/g-fNx7KU">`Video`</a>
 
-<br />
 <br />
 <br />
 
