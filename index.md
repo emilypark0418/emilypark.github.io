@@ -131,13 +131,13 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 ## Hobbies
 
-<img align="left" src="assets/img/perth.jpg" width="270" height="360">
+<img align="left" src="assets/img/perth.jpg" width="270" height="360" padding="10px">
 
-&nbsp;&nbsp;&nbsp;Sports-wise, I love swimming, ice skating, and roller blading. I enjoy watching figure skating Olympians perform on ***Stars on Ice***!
+Sports-wise, I love swimming, ice skating, and roller blading. I enjoy watching figure skating Olympians perform on ***Stars on Ice***!
 
-&nbsp;&nbsp;&nbsp;I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I was actively involved in orchestras and musical performances since elementary school, and even at Boeing I was part of an orchestra. In college, I was part of a band and played keyboard.
+I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I was actively involved in orchestras and musical performances since elementary school, and even at Boeing I was part of an orchestra. In college, I was part of a band and played keyboard.
 
-&nbsp;&nbsp;&nbsp;I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
+I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
 
 
-&nbsp;&nbsp;&nbsp;### Thanks for visiting my website, and feel free to reach out to me for any inquiries! ❤️
+### Thanks for visiting my website, and feel free to reach out to me for any inquiries! ❤️
