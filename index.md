@@ -9,7 +9,7 @@ tags: [bio]
 
 <img align="middle" src="assets/img/profile_new.jpg" width="250" height="250">   
 
-Hi - currently I am a 1st year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating a **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. You can reach me at <cp3227@columbia.edu>.
+Hi - currently I am a 1st year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. You can reach me at <cp3227@columbia.edu>.
 
 My interest in **Explainable and Robust ML** was fostered through my extensive research experience at Boeing, where I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
 
@@ -82,6 +82,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***B.S. in Computer Science, B.A. in Business Administration (Aug 2019)***
 
 <br />
+<br />
 
 ## Academic Research/Teaching Experience
 
@@ -120,14 +121,13 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 ## Hobbies
 
-&nbsp;&nbsp;<img align="right" src="assets/img/perth.jpg" width="270" height="360">
+<img align="left" src="assets/img/perth.jpg" width="270" height="360">
 
-Sports-wise, I love swimming, ice skating, and roller blading. I love watching figure skating Olympians perform on ***Stars on Ice***!
+Sports-wise, I love swimming, ice skating, and roller blading. I enjoy watching figure skating Olympians perform on ***Stars on Ice***!
 
-I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I was actively involved in orchestras and performances since elementary school, and even at Boeing I was part of an orchestra. In college, I was part of a band and played keyboard.
+I have played the clarinet for 15+ years and I’m very fond of the dulcet and mellow sound of this beautiful woodwind instrument. I was actively involved in orchestras and musical performances since elementary school, and even at Boeing I was part of an orchestra. In college, I was part of a band and played keyboard.
 
 I also love traveling and appreciating diversity in the cities I go to. Here's one of my favorite photo from Perth, Australia when I went to SIGGRAPH ASIA 2019 as a student volunteer. Can you see the countless shades of blue? 🌊🌊
 
-<br />
 
 ### Thanks for visiting my website, and feel free to reach out to me for any inquiries! ❤️
