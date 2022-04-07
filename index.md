@@ -133,7 +133,6 @@ Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel rese
 
 <img align="left" src="assets/img/perth.jpg" width="250" height="330" style="margin-right: 15px;">
 
-<br />
 
 Sports-wise, I love swimming, ice skating, and roller blading. I enjoy watching figure skating Olympians perform on ***Stars on Ice***!
 
