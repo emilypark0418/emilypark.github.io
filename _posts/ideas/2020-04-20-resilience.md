@@ -21,6 +21,8 @@ That got me thinking, when resilience is so important to humans,
 1. **What research efforts & discussions are being made to assess and develop resilience in AI?**
 2. **What kind of impact does lack of resilience have on current technology usage?**
 
+<br />
+
 ## Resilience
 
 - Ability for the system to acknowledge mistakes and adapt, mitigate, and overcome the situation by minimizing damage
@@ -38,6 +40,8 @@ by identifying, defining, and understanding policies, procedures, and practices
 - Factors that makes resilience difficult
   - Lack of sound data (Biased data, very little data, etc)
   - Tricky Relationships (Wrong associative mapping between variables, nuanced relationships that are even difficult for humans)
+
+<br />
 
 ## Current Status of Research on Resilience
 
@@ -67,6 +71,8 @@ by identifying, defining, and understanding policies, procedures, and practices
             - How should feedbacks on bad results be provided and reflected on ML model?
             - How should scenario testing be designed to make model robust to rare circumstances?
             - Are there safety measures that prevents the ML model from deviating from safe training & testing procedures?
+
+<br />
 
 References:
 1. [Measuring Resilience in AI and ML systems](https://insights.sei.cmu.edu/insider-threat/2019/12/measuring-resilience-in-artificial-intelligence-and-machine-learning-systems.html)
