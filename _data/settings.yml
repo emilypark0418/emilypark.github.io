@@ -7,8 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'CV', folder: 'pages', file: 'cv.html'}
-- {name: 'Previous Projects', folder: 'pages', file: 'projects.html'}
+- {name: 'Resume', link: 'https://drive.google.com/file/d/137czJCv75T-15iAEqo914a72Upxj5of4/view?usp=sharing'}
 - {name: 'Ideas', folder: 'pages', file: 'ideas.html'}
 - {name: 'Others', folder: 'pages', file: 'others.html'}
 
