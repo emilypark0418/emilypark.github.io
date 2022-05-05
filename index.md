@@ -7,7 +7,7 @@ tags: [bio]
 ---
 
 
-<img align="middle" src="assets/img/profile_new.jpg" width="250" height="250">   
+<img align="middle" src="assets/img/profile042022.jpg" width="250" height="250">   
 
 Hi - currently I am a 1st year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. You can reach me at <cp3227@columbia.edu>.
 
