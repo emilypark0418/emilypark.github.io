@@ -62,7 +62,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/boeing.png" width="300" height="190">  &nbsp; &nbsp; &nbsp; &nbsp;<ins>**Boeing Research & Technology**</ins>
 
- &nbsp; &nbsp; &nbsp; &nbsp;**Advanced Technologist - Seoul, South Korea (Aug 2019 ~ June 2021)**
+ &nbsp; &nbsp; &nbsp; &nbsp;**Data Analyst - Seoul, South Korea (Aug 2019 ~ June 2021)**
 
  &nbsp; &nbsp; &nbsp; &nbsp;**Tech Integrator - Seoul, South Korea (Sept 2018 ~ July 2019)**
 
