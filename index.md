@@ -9,7 +9,7 @@ tags: [bio]
 
 <img align="middle" src="assets/img/profile042022.jpg" width="250" height="250">   
 
-Hi - currently I am a 1st year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. You can reach me at <cp3227@columbia.edu>.
+Hi - currently I am a 2nd year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. During summer 2022, I am interning at AWS ElasticMapReduce Serverless team as an SDE intern. You can reach me at <cp3227@columbia.edu>.
 
 My interest in **Explainable and Robust ML** was fostered through my extensive research experience at Boeing, where I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
 
