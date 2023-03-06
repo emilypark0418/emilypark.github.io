@@ -21,6 +21,8 @@ I was an undergraduate <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_sch
 
 ## Publications
 
+* <a href="https://scholar.google.com/citations?user=HzHwgPUAAAAJ&hl=en"> Google Scholar Citations </a>
+
 <img align="right" src="assets/img/lfi_cam.png" width="500" height="240">   
 
 <br />
