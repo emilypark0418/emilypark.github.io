@@ -9,13 +9,13 @@ tags: [bio]
 
 <img align="middle" src="assets/img/profile042022.jpg" width="250" height="250">   
 
-Hi - currently I am a 2nd year CS master’s student at Columbia University, specializing in Machine Learning. I am passionate about creating **✨positive disruption✨ in making AI trustworthy, safer, and fairer for various users in various contexts**. During summer 2022, I am interning at AWS ElasticMapReduce Serverless team as an SDE intern. You can reach me at <cp3227@columbia.edu>.
+Hi - my name is Emily and I'm a Machine Learning Engineer at Boeing in Seattle, WA. My aspiration is to create **✨positive disruptions✨** in our society, including but not limited to fields like education, medicine, finance, urban mobility, smart factory, etc. by **making ML and software technologies more trustworthy, safer, and fairer** to be **on par with human intelligence, and even beyond**. I graduated from Columbia University with a Master's in Computer Science and Yonsei University with a Bachelor's in Computer Science and Business Administration. I've also interned at AWS ElasticMapReduce Serverless team as an SDE intern in the summer of 2022.
 
-My interest in **Explainable and Robust ML** was fostered through my extensive research experience at Boeing, where I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
+My interest in **Explainable, Trustworthy, and Robust ML** was fostered through my extensive research experience at Boeing. Currently I am working on a ***Contour Scanning*** project for 2D & 3D monocular cargo detection models to enable pallet ID tracking and volume reconstruction for Qatar Airlines’ cargo loading logistic optimization. Previously, I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
 
 I have leveraged my academic background to better understand and navigate not only the research problem itself, but also the entailing business impacts, opportunities, and risks which helped me approach a problem with a holistic perspective. I believe such skills and unique experiences differentiate me from other engineers and researchers.
 
-I was an undergraduate <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php">Korea Foundation for Advanced Studies (KFAS) Scholarship</a> scholar, and currently a <a href="https://www.studyinkorea.go.kr/en/sub/gks/allnew_government.do">Korean Government Overseas Study Scholarship</a> scholar.
+In undergrad, I was a <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php">Korea Foundation for Advanced Studies (KFAS) Scholarship</a> scholar, and during my Master's program, I had the honor of being a <a href="https://www.studyinkorea.go.kr/en/sub/gks/allnew_government.do">Korean Government Overseas Study Scholarship</a> scholar. If you have any inquiries, you can reach me at <cp3227@columbia.edu>.
 
 <br />
 
@@ -64,6 +64,8 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/boeing.png" width="300" height="190">  &nbsp; &nbsp; &nbsp; &nbsp;<ins>**Boeing Research & Technology**</ins>
 
+ &nbsp; &nbsp; &nbsp; &nbsp;**AI Software Engineer - Seattle, WA (April 2023 ~ current)**
+
  &nbsp; &nbsp; &nbsp; &nbsp;**Data Analyst - Seoul, South Korea (Aug 2019 ~ June 2021)**
 
  &nbsp; &nbsp; &nbsp; &nbsp;**Tech Integrator - Seoul, South Korea (Sept 2018 ~ July 2019)**
@@ -77,7 +79,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/columbia_logo.jpg" width="320" height="180"> <br /> <br /> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>**Columbia University**</ins>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***M.S. in Computer Science (Dec 2022)***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***M.S. in Computer Science (Feb 2023)***
 
 <br />
 <br />
@@ -121,7 +123,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 ## Research Interest
 
-My research interest lies in **enabling trustworthy and safe autonomous vehicles through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for Disruptive Mobility to leverage robust Explainable AI on multimodal data. I believe rethinking the entire architecture principle to prioritize safety and embedding trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
+My research interest lies in **enabling trustworthy and safe ML through Explainable AI**. Specifically, I want to research methodologies to understand why the model has made a particular decision by extracting human comprehensible information from the black box model. I am fascinated how Explainable AI can identify inherent biases and out-of-distributions, while shedding light on ‘why’ the system is behaving as it does through visualizations, words, and metrics. Ultimately, I envision Detect-and-Avoid systems for Disruptive Mobility to leverage robust Explainable AI on multimodal data. I believe rethinking the entire architecture principle to prioritize safety and embedding trustworthy mechanisms for preventing failures is essential, which is why my research interest has tremendous social value.
 
 Just like Boeing's motto _“The Future is Built Here”✈️_, I do novel research to push boundaries of AI.   
 
