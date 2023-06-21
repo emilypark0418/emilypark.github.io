@@ -22,6 +22,7 @@ In undergrad, I was a <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scho
 ## Publications
 
 * <a href="https://scholar.google.com/citations?user=HzHwgPUAAAAJ&hl=en"> Google Scholar Citations </a>
+* <a href="https://www.researchgate.net/profile/Chaewon-Park-9/research"> ResearchGate Citations </a>
 
 <img align="right" src="assets/img/lfi_cam.png" width="500" height="240">   
 
