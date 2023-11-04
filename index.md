@@ -9,9 +9,11 @@ tags: [bio]
 
 <img align="middle" src="assets/img/profile042022.jpg" width="250" height="250">   
 
-Hi - my name is Emily and I'm a Machine Learning Engineer at Boeing in Seattle, WA. My aspiration is to create **✨positive disruptions✨** in our society (education, medicine, finance, urban mobility, smart factory, etc.) by **making ML and software technologies more trustworthy, safer, and fairer** to be **on par with human intelligence, and even beyond**. I graduated from Columbia University with a Master's in Computer Science and Yonsei University with a Bachelor's in Computer Science and Business Administration. I've also interned at AWS ElasticMapReduce Serverless team as an SDE intern in the summer of 2022.
+Hi - my name is Emily and I'm a Software Engineer at AWS ElasticMapReduce (EMR) Data Access Control team in East Palo Alto, CA. My aspiration is to create **✨positive disruptions✨** in our society (education, medicine, finance, urban mobility, smart factory, etc.) by **making ML and software technologies more trustworthy, safer, and fairer** to be **on par with human intelligence, and even beyond**. I graduated from Columbia University with a Master's in Computer Science and Yonsei University with a Bachelor's in Computer Science and Business Administration. I have well-rounded work experience in both software engineering and Machine Learning/Deep Learning model development.
 
-My interest in **Explainable, Trustworthy, and Robust ML** was fostered through my extensive research experience at Boeing. Currently I am working on a ***Contour Scanning*** project for 2D & 3D monocular cargo detection models to enable pallet ID tracking and volume reconstruction for Qatar Airlines’ cargo loading logistic optimization. Previously, I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, **ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>**. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
+At AWS, I'm currently working on implementing mitigations for various security issues tied in with fine grained access control and authorization for EMR Dataplane, which is a managed cluster platform that simplifies running big data frameworks.
+
+My interest in **Explainable, Trustworthy, and Robust ML** was fostered through my extensive research experience at Boeing. I have worked on the ***Contour Scanning*** project for 2D & 3D monocular cargo detection models to enable pallet ID tracking and volume reconstruction for Qatar Airlines’ cargo loading logistic optimization. Previously, I was involved in ***Automated Visual Inspection*** and ***Autonomous Flight*** projects that emphasizes both performance and explainability of AI models. This research resulted in a US patent pending, **ICCV 2021 accepted 1st author paper, <a href="https://bit.ly/3FIRi2r">LFI-CAM</a>**. I have also closely collaborated with Boeing Directors and cross functional teams in different time zones to establish a <a href="https://www.linkedin.com/pulse/our-one-global-team-driving-future-naveed-hussain/">new Boeing R&D center (Boeing Korea Engineering & Technology Center, BKETC)</a> in South Korea from scratch as a founding member. In addition, I have demonstrated leadership and project management skills where I have shaped and managed many of Boeing's research portfolio projects and milestones.
 
 I have leveraged my academic background to better understand and navigate not only the research problem itself, but also the entailing business impacts, opportunities, and risks which helped me approach a problem with a holistic perspective. I believe such skills and unique experiences differentiate me from other engineers and researchers.
 
@@ -58,7 +60,8 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/amazon_logo.png" width="300" height="150"> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ins>**Amazon Web Services**</ins>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **SDE Intern - Redmond, WA, USA (May 2022 ~ Aug 2022)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Engineer - East Palo Alto, CA, USA (Aug 2023 ~ Present)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Engineer Intern - Redmond, WA, USA (May 2022 ~ Aug 2022)**
 
 <br />
 <br />
@@ -66,7 +69,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 
 <img align="left" src="assets/img/boeing.png" width="300" height="190">  &nbsp; &nbsp; &nbsp; &nbsp;<ins>**Boeing Research & Technology**</ins>
 
- &nbsp; &nbsp; &nbsp; &nbsp;**AI Software Engineer - Seattle, WA (April 2023 ~ current)**
+ &nbsp; &nbsp; &nbsp; &nbsp;**AI Software Engineer - Seattle, WA (April 2023 ~ Aug 2023)**
 
  &nbsp; &nbsp; &nbsp; &nbsp;**Data Analyst - Seoul, South Korea (Aug 2019 ~ June 2021)**
 
