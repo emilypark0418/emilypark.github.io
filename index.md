@@ -61,6 +61,7 @@ Kwang Hee Lee, **Chaewon Park**, Junghyun Oh, Nojun Kwak
 <img align="left" src="assets/img/amazon_logo.png" width="300" height="150"> <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ins>**Amazon Web Services**</ins>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Engineer - East Palo Alto, CA, USA (Aug 2023 ~ Present)**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Engineer Intern - Redmond, WA, USA (May 2022 ~ Aug 2022)**
 
 <br />
