@@ -23,9 +23,12 @@ In undergrad, I was a <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scho
 
 ## Publications & Patents
 
-* <a href="https://scholar.google.com/citations?user=HzHwgPUAAAAJ&hl=en"> Google Scholar Citations </a>
-* <a href="https://www.researchgate.net/profile/Chaewon-Park-9/research"> ResearchGate Citations </a>
-* <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230026787"> LFI-CAM US Patent (US-20230026787-A1)
+* Publications:
+   * <a href="https://scholar.google.com/citations?user=HzHwgPUAAAAJ&hl=en"> Google Scholar Citations </a>
+   * <a href="https://www.researchgate.net/profile/Chaewon-Park-9/research"> ResearchGate Citations </a>
+* Patents:
+   * <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230026787"> LFI-CAM US Patent (US-20230026787-A1)
+   * A Dynamic Graphical Interface for Intuitive A.I. Prompting (U.S. Non-Provisional Patent Application No.: 18/544,891)
 
 <img align="right" src="assets/img/lfi_cam.png" width="500" height="240">   
 
